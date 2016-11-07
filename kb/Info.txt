@@ -1,0 +1,1 @@
+This folder contains the knowledge base information to be run on s(ASP) system
