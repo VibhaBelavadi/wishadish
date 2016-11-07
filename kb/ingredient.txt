@@ -1,0 +1,139 @@
+ingredient('almond').
+ingredient('almond milk').
+ingredient('bacon').
+ingredient('baking powder').
+ingredient('bell pepper').
+ingredient('basil').
+ingredient('bay leaf').
+ingredient('beef').
+ingredient('black bean').
+ingredient('black bean sauce').
+ingredient('black pepper').
+ingredient('bread').
+ingredient('sugar').
+ingredient('butter').
+ingredient('cabbage').
+ingredient('cilantro').
+ingredient('cardamom').
+ingredient('cashew').
+ingredient('cayenne pepper').
+ingredient('cheese').
+ingredient('cherry tomatoes').
+ingredient('chestnuts').
+ingredient('chicken').
+ingredient('chili').
+ingredient('chilly').
+ingredient('cilantro').
+ingredient('cinnamon').
+ingredient('clove').
+ingredient('condensed milk').
+ingredient('coriander').
+ingredient('corn').
+ingredient('corn starch').
+ingredient('cottage cheese').
+ingredient('cream').
+ingredient('cumin').
+ingredient('egg').
+ingredient('eggplant').
+ingredient('enchilada sauce').
+ingredient('fennel').
+ingredient('fenugreek').
+ingredient('flour').
+ingredient('garlic').
+ingredient('ghee').
+ingredient('ginger').
+ingredient('green beans').
+ingredient('green pepper').
+ingredient('halibut').
+ingredient('honey').
+ingredient('indian curry powder').
+ingredient('jalapeno pepper').
+ingredient('juice').
+ingredient('ketchup').
+ingredient('kidney bean').
+ingredient('kosher salt').
+ingredient('lemon').
+ingredient('lentils').
+ingredient('lettuce').
+ingredient('lime').
+ingredient('mango').
+ingredient('milk').
+ingredient('mint').
+ingredient('mushroom').
+ingredient('nachos').
+ingredient('oil').
+ingredient('onion').
+ingredient('orange').
+ingredient('orange bell peppers').
+ingredient('oregano').
+ingredient('oyster sauce').
+ingredient('paprika').
+ingredient('parsley').
+ingredient('peanuts').
+ingredient('pepper').
+ingredient('peppers').
+ingredient('pineapple').
+ingredient('pistachio').
+ingredient('pork').
+ingredient('potato').
+ingredient('raisin').
+ingredient('red bell pepper').
+ingredient('rice').
+ingredient('rose water').
+ingredient('safron').
+ingredient('salsa').
+ingredient('salt').
+ingredient('sesame').
+ingredient('shrimp').
+ingredient('soy sauce').
+ingredient('spinach').
+ingredient('sugar').
+ingredient('taco').
+ingredient('tilapia').
+ingredient('tofu').
+ingredient('tomato').
+ingredient('tortilla').
+ingredient('turkey').
+ingredient('turmeric').
+ingredient('vanilla').
+ingredient('vinegar').
+ingredient('water').
+ingredient('white sugar').
+ingredient('yellow bell peppers').
+ingredient('yogurt').
+ingredient('espresso').
+ingredient('sugar').
+ingredient('tia maria').
+ingredient('egg').
+ingredient('marsala').
+ingredient('mascarpone').
+ingredient('cream').
+ingredient('savoiardi').
+ingredient('cocoa').
+ingredient('gelatin').
+ingredient('milk').
+ingredient('vanilla').
+ingredient('lasagna').
+ingredient('italian turkey sausage').
+ingredient('mushroom').
+ingredient('spinach').
+ingredient('tomato').
+ingredient('basil').
+ingredient('salt').
+ingredient('black pepper').
+ingredient('ricotta cheese').
+ingredient('mozzarella cheese').
+ingredient('bulgur').
+ingredient('olive oil').
+ingredient('garlic').
+ingredient('oregano').
+ingredient('red pepper').
+ingredient('bread').
+ingredient('ground beef').
+ingredient('parmesan cheese').
+ingredient('cinnamon').
+ingredient('green pepper').
+ingredient('onion').
+ingredient('broth').
+ingredient('cheese ravioli').
+ingredient('zucchini').
